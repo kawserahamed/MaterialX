@@ -11,6 +11,9 @@
             android:title="Notification"
             app:actionLayout="@layout/badge_navigation_dot" />
         <item
+            android:id="@+id/action_favorite"
+            android:title="Favorites" />
+        <item
             android:id="@+id/action_portfolio"
             android:title="Other Apps" />
         <item

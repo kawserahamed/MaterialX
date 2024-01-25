@@ -132,8 +132,8 @@
                         android:layout_width="@dimen/spacing_mlarge"
                         android:layout_height="@dimen/spacing_mlarge"
                         android:layout_margin="@dimen/spacing_middle"
-                        android:tint="@color/deep_orange_300"
-                        app:srcCompat="@drawable/ic_dns" />
+                        app:srcCompat="@drawable/ic_dns"
+                        app:tint="@color/deep_orange_300" />
 
                     <TextView
                         android:layout_width="wrap_content"
@@ -158,8 +158,8 @@
                         android:layout_width="@dimen/spacing_mlarge"
                         android:layout_height="@dimen/spacing_mlarge"
                         android:layout_margin="@dimen/spacing_middle"
-                        android:tint="@color/deep_orange_300"
-                        app:srcCompat="@drawable/ic_notifications_outline" />
+                        app:srcCompat="@drawable/ic_notifications_outline"
+                        app:tint="@color/deep_orange_300" />
 
                     <TextView
                         android:layout_width="wrap_content"
@@ -200,8 +200,8 @@
                         android:layout_width="@dimen/spacing_mlarge"
                         android:layout_height="@dimen/spacing_mlarge"
                         android:layout_margin="@dimen/spacing_middle"
-                        android:tint="@color/deep_orange_300"
-                        app:srcCompat="@drawable/ic_chat" />
+                        app:srcCompat="@drawable/ic_chat"
+                        app:tint="@color/deep_orange_300" />
 
                     <TextView
                         android:layout_width="wrap_content"
@@ -226,8 +226,8 @@
                         android:layout_width="@dimen/spacing_mlarge"
                         android:layout_height="@dimen/spacing_mlarge"
                         android:layout_margin="@dimen/spacing_middle"
-                        android:tint="@color/deep_orange_300"
-                        app:srcCompat="@drawable/ic_apps" />
+                        app:srcCompat="@drawable/ic_apps"
+                        app:tint="@color/deep_orange_300" />
 
                     <TextView
                         android:layout_width="wrap_content"
@@ -261,8 +261,8 @@
                         android:layout_width="@dimen/spacing_mlarge"
                         android:layout_height="@dimen/spacing_mlarge"
                         android:layout_margin="@dimen/spacing_middle"
-                        android:tint="@color/deep_orange_300"
-                        app:srcCompat="@drawable/ic_credit_card" />
+                        app:srcCompat="@drawable/ic_credit_card"
+                        app:tint="@color/deep_orange_300" />
 
                     <TextView
                         android:layout_width="wrap_content"
@@ -287,8 +287,8 @@
                         android:layout_width="@dimen/spacing_mlarge"
                         android:layout_height="@dimen/spacing_mlarge"
                         android:layout_margin="@dimen/spacing_middle"
-                        android:tint="@color/deep_orange_300"
-                        app:srcCompat="@drawable/ic_data_usage" />
+                        app:srcCompat="@drawable/ic_data_usage"
+                        app:tint="@color/deep_orange_300" />
 
                     <TextView
                         android:layout_width="wrap_content"
@@ -304,8 +304,8 @@
                         android:layout_width="@dimen/spacing_mlarge"
                         android:layout_height="@dimen/spacing_mlarge"
                         android:layout_margin="@dimen/spacing_middle"
-                        android:tint="@color/red_500"
-                        app:srcCompat="@drawable/ic_arrow_right" />
+                        app:srcCompat="@drawable/ic_arrow_right"
+                        app:tint="@color/red_500" />
 
                     <View
                         android:layout_width="@dimen/spacing_middle"
@@ -329,8 +329,8 @@
                         android:layout_width="@dimen/spacing_mlarge"
                         android:layout_height="@dimen/spacing_mlarge"
                         android:layout_margin="@dimen/spacing_middle"
-                        android:tint="@color/deep_orange_300"
-                        app:srcCompat="@drawable/ic_people_outline" />
+                        app:srcCompat="@drawable/ic_people_outline"
+                        app:tint="@color/deep_orange_300" />
 
                     <TextView
                         android:layout_width="wrap_content"
@@ -355,8 +355,8 @@
                         android:layout_width="@dimen/spacing_mlarge"
                         android:layout_height="@dimen/spacing_mlarge"
                         android:layout_margin="@dimen/spacing_middle"
-                        android:tint="@color/deep_orange_300"
-                        app:srcCompat="@drawable/ic_show_chart" />
+                        app:srcCompat="@drawable/ic_show_chart"
+                        app:tint="@color/deep_orange_300" />
 
                     <TextView
                         android:layout_width="wrap_content"
@@ -390,8 +390,8 @@
                         android:layout_width="@dimen/spacing_mlarge"
                         android:layout_height="@dimen/spacing_mlarge"
                         android:layout_margin="@dimen/spacing_middle"
-                        android:tint="@color/deep_orange_300"
-                        app:srcCompat="@drawable/ic_enhanced_encryption" />
+                        app:srcCompat="@drawable/ic_enhanced_encryption"
+                        app:tint="@color/deep_orange_300" />
 
                     <TextView
                         android:layout_width="wrap_content"
@@ -416,8 +416,8 @@
                         android:layout_width="@dimen/spacing_mlarge"
                         android:layout_height="@dimen/spacing_mlarge"
                         android:layout_margin="@dimen/spacing_middle"
-                        android:tint="@color/deep_orange_300"
-                        app:srcCompat="@drawable/ic_face" />
+                        app:srcCompat="@drawable/ic_face"
+                        app:tint="@color/deep_orange_300" />
 
                     <TextView
                         android:layout_width="wrap_content"

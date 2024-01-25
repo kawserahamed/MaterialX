@@ -426,4 +426,48 @@
         <item>@drawable/image_30</item>
     </integer-array>
 
+    <string-array name="photo_info_name">
+        <item>Building</item>
+        <item>Nature</item>
+        <item>Nightlife</item>
+        <item>Person</item>
+        <item>Moment</item>
+
+        <item>Forest</item>
+        <item>Face</item>
+        <item>Workout</item>
+        <item>Landmark</item>
+        <item>Food</item>
+
+        <item>Holiday</item>
+        <item>Travel</item>
+        <item>Bike</item>
+        <item>Shopping</item>
+        <item>Fashion</item>
+
+        <item>Beach</item>
+    </string-array>
+
+    <integer-array name="photo_info_icon">
+        <item>@drawable/ic_business</item>
+        <item>@drawable/ic_local_florist</item>
+        <item>@drawable/ic_local_cafe</item>
+        <item>@drawable/ic_person</item>
+        <item>@drawable/ic_event_seat</item>
+
+        <item>@drawable/ic_grass</item>
+        <item>@drawable/ic_face</item>
+        <item>@drawable/ic_fitness_center</item>
+        <item>@drawable/ic_pin_drop</item>
+        <item>@drawable/ic_restaurant</item>
+
+        <item>@drawable/ic_pool</item>
+        <item>@drawable/ic_airport_shuttle</item>
+        <item>@drawable/ic_directions_bike</item>
+        <item>@drawable/ic_shopping_basket</item>
+        <item>@drawable/ic_photo_camera</item>
+
+        <item>@drawable/ic_beach_access</item>
+    </integer-array>
+
 </resources>
